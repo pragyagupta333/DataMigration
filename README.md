@@ -31,13 +31,13 @@ In this repository I have **Migrated 10 Tables**  with all constraints and data 
 
 
 
-- Step 4 : Choose Your Source, Server,Username,etc as shown below
+- Step 4 : Choose Your Source, Server,Username,etc as shown below or as needed
     - Click on Refresh To choose Your Database
     - Carefully choose schema if tables are in schema other than default schema (public).
     - Click on "Next"
 
   ![e_DM](https://github.com/pragyagupta333/DataMigration/assets/125549428/77c9ffd8-ab60-4308-95f2-7b4c92ffa118)
-- Step 5 : Choose Your Destination, Server name,etc as shown
+- Step 5 : Choose Your Destination, Server name,etc as shown or as needed
 
     ![f_DM](https://github.com/pragyagupta333/DataMigration/assets/125549428/84e5dcde-5ffa-4733-9cbd-4800c1fc58ba)
 
